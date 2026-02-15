@@ -291,12 +291,12 @@ section[id]{ scroll-margin-top: 90px; }
   position:relative;
   z-index:2;
   display:grid;
-  grid-template-columns: 1fr 520px;
+  grid-template-columns: 1.35fr 440px; /* photo plus large, carte plus étroite */
   gap:28px;
   align-items:center;
   padding:92px 0;
 }
-.hero__spacer{ height:540px; }
+.hero__spacer{ height:660px; }
 
 /* Carte droite */
 .hero__card--right{
@@ -310,6 +310,10 @@ section[id]{ scroll-margin-top: 90px; }
   box-shadow: var(--shadow2);
   backdrop-filter: blur(10px);
   overflow: visible;
+  max-width: 440px;     /* carte plus petite */
+  padding: 32px 22px;   /* moins de padding => plus compact */
+}
+
 }
 
 /* Bordure “premium” */
@@ -350,12 +354,14 @@ section[id]{ scroll-margin-top: 90px; }
 
 .hero__kicker{
   font-family: var(--font-serif);
-  font-size: 12px;
+  font-size: 16px;              /* plus grand */
   letter-spacing: .22em;
   text-transform: uppercase;
-  color: rgba(18,32,24,.56);
-  margin: 0 0 4px;
+  color: var(--gold-600);       /* doré */
+  margin: 0 0 6px;
+  text-shadow: 0 10px 22px rgba(0,0,0,.08);
 }
+
 
 /* Noms hero — comme la maquette (1 ligne + soulignement sur le 2e prénom) */
 .hero__names{
@@ -884,7 +890,7 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
     grid-template-columns:1fr;
     padding:72px 0;
   }
-  .hero__spacer{ height:260px; }
+  .hero__spacer{ height:340px; }
 
   .hero__bg img{
     object-position: 35% 62%;
