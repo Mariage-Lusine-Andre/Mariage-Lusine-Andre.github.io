@@ -41,14 +41,17 @@ const i18n = {
     townhall_title: "Hôtel de Ville de Nancy",
     townhall_role: "Cérémonie civile — 16h00",
     townhall_desc: "Entrée par la place Stanislas.",
+    townhall_blurb: "En plein cœur de Nancy, sur la célèbre Place Stanislas : un cadre historique et majestueux.",
     townhall_addr_line1: "Hôtel de Ville de Nancy",
     townhall_addr_line2: "Place Stanislas, 54000 Nancy",
 
     castle_title: "Château de Vandeléville",
     castle_role: "Réception — 18h00 • Dîner assis — 20h00",
     castle_desc: "3, place du Château à Vandeléville.",
+    castle_blurb: "Un château de charme, entouré de verdure, pour un vin d’honneur puis un dîner convivial et élégant.",
     castle_addr_line1: "Château de Vandeléville",
     castle_addr_line2: "3, place du Château, 54115 Vandeléville",
+    
 
     btn_map: "Voir sur la carte",
     btn_route: "Itinéraire",
@@ -103,12 +106,14 @@ const i18n = {
     townhall_title: "Նանսիի քաղաքապետարան",
     townhall_role: "Քաղաքացիական արարողություն — 16:00",
     townhall_desc: "Մուտքը՝ Ստանիսլաս հրապարակից։",
+    townhall_blurb: "Նանսիի սրտում՝ հանրահայտ Ստանիսլաս հրապարակում․ պատմական և շքեղ միջավայր։",
     townhall_addr_line1: "Նանսիի քաղաքապետարան",
     townhall_addr_line2: "Place Stanislas, Nancy",
 
     castle_title: "Վանդելևիլի դղյակ",
     castle_role: "Ընդունելություն — 18:00 • Նստած ընթրիք — 20:00",
     castle_desc: "3, Place du Château, Vandeléville։",
+    castle_blurb: "Գեղեցիկ դղյակ՝ կանաչով շրջապատված․ այստեղ կանցկացնենք ընդունելությունն ու ջերմ, էլեգանտ ընթրիքը։",
     castle_addr_line1: "Վանդելևիլի դղյակ",
     castle_addr_line2: "3, Place du Château, Vandeléville",
 
