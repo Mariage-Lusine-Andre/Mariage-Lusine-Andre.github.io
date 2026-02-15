@@ -701,6 +701,19 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
   gap:14px;
 }
 
+.card__blurb{
+  margin: 0;
+  padding: 10px 12px;
+  border-radius: 14px;
+  border: 1px solid rgba(230,211,163,.40);
+  background: rgba(250,248,243,.70);
+  color: rgba(75,91,82,.92);
+  line-height: 1.75;
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+
 .card__head{ text-align:left; }
 .card__title{
   margin:0;
