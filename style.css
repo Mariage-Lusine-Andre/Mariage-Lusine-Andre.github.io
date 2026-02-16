@@ -618,11 +618,19 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
 }
 
 /* Gallery bento */
+
+/* Galerie: container plus large (sans impacter les autres sections) */
+#galerie .container{
+  width: min(1280px, 100% - (var(--px) * 2));
+}
+
 .gallery-bento{
   display:grid;
   gap:12px;
   grid-template-columns:2fr 1fr 1fr;
   grid-template-rows:230px 230px;
+}
+
 }
 .gcard{
   position:relative;
@@ -632,6 +640,7 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
   border:1px solid rgba(231,236,233,.88);
   transform: translateZ(0);
 }
+
 .gcard img{
   width:100%;
   height:100%;
@@ -938,8 +947,16 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
     grid-template-columns:1fr;
     grid-template-rows:auto;
   }
-  .gcard{ height:175px; }
-  .gcard--big{ height:245px; }
+  .gcard{ height:220px; }      /* + grand */
+  .gcard--big{ height:320px; } /* grande photo encore + grande */
+  
+ /* Mobile: on "vise" plus haut dans la photo pour garder les visages */
+  .gcard img{ object-position: 50% 22%; }
+  .gcard--big img{ object-position: 50% 18%; }
+
+ /* Bonus: moins de zoom = moins de recadrage */
+  .gcard img{ transform: scale(1.0); }
+
 
   .place{ grid-template-columns:1fr; }
   .place:nth-of-type(even) .place__media{ order:0; }
