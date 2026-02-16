@@ -77,7 +77,7 @@ const i18n = {
     hero_names: "Լուսինե և Անդրե",
     hero_name1: "Լուսինե",
     hero_and: "և",
-    hero_name2: "Լուսինե և Անդրե",
+    hero_name2: "Անդրե",
 
     hero_date: "Շաբաթ, 9 մայիս 2026",
     hero_city: "",
