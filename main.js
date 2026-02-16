@@ -1,6 +1,6 @@
 const i18n = {
   fr: {
-    meta_title: "Mariage — André & Lusiné",
+    meta_title: "Mariage — Lusiné & André",
 
     nav_home: "Accueil",
     nav_program: "Programme",
@@ -9,13 +9,13 @@ const i18n = {
     nav_rsvp: "Formulaire de présence",
 
     hero_kicker: "Notre Mariage",
-    hero_names: "André & Lusiné",
-    hero_name1: "André",
+    hero_names: "Lusiné & André",
+    hero_name1: "Lusiné",
     hero_and: "&",
-    hero_name2: "Lusiné",
+    hero_name2: "André",
 
     hero_date: "Samedi 9 mai 2026",
-    hero_city: "Nancy",
+    hero_city: "",
     hero_cta: "Confirmer ma présence",
     hero_secondary: "Voir le programme",
 
@@ -27,9 +27,9 @@ const i18n = {
     program_title: "Programme",
     program_subtitle: "Le programme de la journée",
     program_1: "Cérémonie civile — Hôtel de Ville de Nancy",
-    program_1_hint: "Entrée par la place Stanislas",
+    program_1_hint: "(Entrée par la place Stanislas)",
     program_2: "Vin d’honneur — Château de Vandeléville",
-    program_3: "Dîner assis — Château de Vandeléville",
+    program_3: "Dîner — Château de Vandeléville",
 
     gallery_title: "Galerie",
     gallery_subtitle: "Nos souvenirs",
@@ -40,13 +40,13 @@ const i18n = {
 
     townhall_title: "Hôtel de Ville de Nancy",
     townhall_role: "Cérémonie civile — 16h00",
-    townhall_desc: "Entrée par la place Stanislas.",
+    townhall_desc: "(Entrée par la place Stanislas.)",
     townhall_blurb: "En plein cœur de Nancy, sur la célèbre Place Stanislas : un cadre historique et majestueux.",
     townhall_addr_line1: "Hôtel de Ville de Nancy",
     townhall_addr_line2: "Place Stanislas, 54000 Nancy",
 
     castle_title: "Château de Vandeléville",
-    castle_role: "Réception — 18h00 • Dîner assis — 20h00",
+    castle_role: "Réception — 18h00 • Dîner — 20h00",
     castle_desc: "3, place du Château à Vandeléville.",
     castle_blurb: "Un château de charme, entouré de verdure, pour un vin d’honneur puis un dîner convivial et élégant.",
     castle_addr_line1: "Château de Vandeléville",
@@ -60,7 +60,7 @@ const i18n = {
     rsvp_subtitle: "Merci de compléter et confirmer votre présence",
     rsvp_deadline: "Merci de nous confirmer votre présence avant le 15 avril 2026.",
 
-    footer_names: "André & Lusiné",
+    footer_names: "Lusiné & André",
     footer_meta: "Samedi 9 mai 2026 — Nancy"
   },
 
