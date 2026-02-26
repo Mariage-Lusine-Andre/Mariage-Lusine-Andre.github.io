@@ -48,9 +48,7 @@ const i18n = {
     castle_title: "Château de Vandeléville",
     castle_role: "Réception — 18h00 • Dîner — 20h00",
     castle_desc: "3, place du Château à Vandeléville.",
-    castle_blurb: "Joyau du XVIIIᵉ siècle, le Château de Vandeléville a traversé les époques en conservant son charme et son prestige.
-    C’est dans ce cadre enchanteur, chargé d’histoire, que nous vous accueillerons pour le vin d’honneur, avant un dîner raffiné et une soirée 
-    festive qui se prolongera jusqu’à 4 heures du matin.",
+    castle_blurb: "Joyau du XVIIIᵉ siècle, le Château de Vandeléville a traversé les époques en conservant son charme et son prestige.C’est dans ce cadre enchanteur, chargé d’histoire, que nous vous accueillerons pour le vin d’honneur, avant un dîner raffiné et une soirée festive qui se prolongera jusqu’à 4 heures du matin.",
     castle_addr_line1: "Château de Vandeléville",
     castle_addr_line2: "3, place du Château, 54115 Vandeléville",
     
@@ -113,15 +111,15 @@ const i18n = {
 
     townhall_title: "նանսիի քաղաքապետարան",
     townhall_role: "Քաղաքացիական գրանցման արարողություն — 16:00",
-    townhall_desc: "(Մուտքը՝ Ստանիսլաս հրապարակից։)",
-    townhall_blurb: "Նանսիի սրտում՝ հանրահայտ Ստանիսլաս հրապարակում․ պատմական և շքեղ միջավայր։",
+    townhall_desc: "",
+    townhall_blurb: "Նանսիի սրտում՝ հանրահայտ Ստանիսլաս հրապարակով մուտք գործելով, մեր միությունը կկնքվի քաղաքապետարանի պատմական և շքեղ միջավայրում։",
     townhall_addr_line1: "Նանսիի քաղաքապետարան",
     townhall_addr_line2: "Place Stanislas, Nancy",
 
     castle_title: "Վանդելևիլի դղյակ",
     castle_role: "Պատվո գինու հյուրասիրություն — 18:00 • Ընթրիք — 20:00",
     castle_desc: "3, Place du Château, Vandeléville։",
-    castle_blurb: "Գեղեցիկ դղյակ՝ կանաչով շրջապատված․ այստեղ կանցկացնենք ընդունելությունն ու ջերմ, էլեգանտ ընթրիքը։",
+    castle_blurb: "18-րդ դարի այս հմայիչ դղյակը, պահպանելով իր վեհությունն ու պատմական շունչը, մեզ կհյուրընկալի պատվո գինու, նրբաճաշակ ընթրիքի և ուրախ երեկոյի համար, որը կշարունակվի մինչև լուսաբաց։",
     castle_addr_line1: "Վանդելևիլի դղյակ",
     castle_addr_line2: "3, Place du Château, Vandeléville",
 
@@ -131,7 +129,7 @@ const i18n = {
     nav_stays: "Կացարաններ",
     stays_title: "Կացարաններ",
     stays_subtitle: "Մի քանի հասցեներ՝ դղյակի մոտակայքում",
-    stays_note: "Սիրելի ընկերներ և հյուրեր 💛 եթե ցանկանում եք մնալ մոտակայքում, ահա մի քանի հասցեներ։ Կարող եք անմիջապես կապ հաստատել և ամրագրել։",
+    stays_note: "Սիրելի հյուրեր 💛 եթե ցանկանում եք մնալ մոտակայքում և լիովին վայելել երեկոն, ահա մի քանի առաջարկ։ Կարող եք անմիջապես կապ հաստատել և ամրագրել։",
     stay_call: "Զանգահարել",
 
     rsvp_title: "Մասնակցության ձև",
