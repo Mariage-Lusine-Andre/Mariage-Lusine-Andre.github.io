@@ -630,7 +630,6 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
   gap:12px;
   grid-template-columns:2fr 1fr 1fr;
   grid-template-rows:230px 230px;
-}
 
 }
 .gcard{
