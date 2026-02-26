@@ -64,7 +64,7 @@ const i18n = {
 
     rsvp_title: "Formulaire de présence",
     rsvp_subtitle: "Merci de compléter et confirmer votre présence",
-    rsvp_deadline: "Merci de nous confirmer votre présence avant le 12 avril 2026.",
+    rsvp_deadline: "Nous serions très heureux de vous compter parmi nous pour notre mariage ; merci de bien vouloir confirmer votre présence avant le 12 avril 2026 en complétant le formulaire ci-dessous. 💍",
 
     footer_names: "Lusiné & André",
     footer_meta: "Samedi 9 mai 2026 — Nancy"
