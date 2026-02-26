@@ -58,9 +58,8 @@ const i18n = {
 
     nav_stays: "Hébergements",
     stays_title: "Hébergements",
-    stays_subtitle: "Chers convives 💛",
-    stays_note: "Pour prolonger la magie au cœur du Saintois et profiter pleinement de la soirée jusqu’au bout de la nuit, voici quelques suggestions d’hébergements à proximité du château.",
-    stays_note+: "Nous vous invitons à contacter directement les établissements pour effectuer votre réservation.",
+    stays_subtitle: "",
+    stays_note: "Chers convives Pour prolonger la magie au cœur du Saintois et profiter pleinement de la soirée jusqu’au bout de la nuit, voici quelques suggestions d’hébergements à proximité du château.Nous vous invitons à contacter directement les établissements pour effectuer votre réservation.",
     stay_call: "Appeler",
 
     rsvp_title: "Formulaire de présence",
@@ -129,9 +128,8 @@ const i18n = {
     
     nav_stays: "Կացարաններ",
     stays_title: "Կացարաններ",
-    stays_subtitle: "Սիրելի հյուրեր 💛 ",
-    stays_note: "եթե ցանկանում եք մնալ մոտակայքում և լիովին վայելել երեկոն, ահա մի քանի առաջարկ.",
-    stay_note+: "Կարող եք անմիջապես կապ հաստատել և ամրագրել։",
+    stays_subtitle: "",
+    stays_note: "Սիրելի հյուրեր եթե ցանկանում եք մնալ մոտակայքում և լիովին վայելել երեկոն, ահա մի քանի առաջարկ.Կարող եք անմիջապես կապ հաստատել և ամրագրել։",
     stay_call: "Զանգահարել",
 
     rsvp_title: "Մասնակցության ձև",
