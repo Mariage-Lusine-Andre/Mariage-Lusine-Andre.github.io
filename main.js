@@ -40,15 +40,17 @@ const i18n = {
 
     townhall_title: "Hôtel de Ville de Nancy",
     townhall_role: "Cérémonie civile — 16h00",
-    townhall_desc: "(Entrée par la place Stanislas.)",
-    townhall_blurb: "En plein cœur de Nancy, sur la célèbre Place Stanislas : un cadre historique et majestueux.",
+    townhall_desc: "",
+    townhall_blurb: "Au cœur de Nancy, entrée par l’emblématique Place Stanislas, puis célébration de notre union à l’intérieur de l’Hôtel de Ville, dans un cadre chargé d’histoire.",
     townhall_addr_line1: "Hôtel de Ville de Nancy",
     townhall_addr_line2: "Place Stanislas, 54000 Nancy",
 
     castle_title: "Château de Vandeléville",
     castle_role: "Réception — 18h00 • Dîner — 20h00",
     castle_desc: "3, place du Château à Vandeléville.",
-    castle_blurb: "Un château de charme, entouré de verdure, pour un vin d’honneur puis un dîner convivial et élégant.",
+    castle_blurb: "Joyau du XVIIIᵉ siècle, le Château de Vandeléville a traversé les époques en conservant son charme et son prestige.
+    C’est dans ce cadre enchanteur, chargé d’histoire, que nous vous accueillerons pour le vin d’honneur, avant un dîner raffiné et une soirée 
+    festive qui se prolongera jusqu’à 4 heures du matin.",
     castle_addr_line1: "Château de Vandeléville",
     castle_addr_line2: "3, place du Château, 54115 Vandeléville",
     
@@ -58,8 +60,8 @@ const i18n = {
 
     nav_stays: "Hébergements",
     stays_title: "Hébergements",
-    stays_subtitle: "Quelques idées d’hébergements près du Château",
-    stays_note: " Chers amis, chers invités 💛 si vous préférez dormir sur place ou tout près, voici quelques options. N’hésitez pas à les contacter directement pour réserver:",
+    stays_subtitle: "",
+    stays_note: "Chers convives 💛 Pour prolonger la magie au cœur du Saintois et profiter pleinement de la soirée jusqu’au bout de la nuit, voici quelques suggestions d’hébergements à proximité du château.Nous vous invitons à contacter directement les établissements pour effectuer votre réservation.",
     stay_call: "Appeler",
 
     rsvp_title: "Formulaire de présence",
