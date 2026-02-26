@@ -687,7 +687,7 @@ html[lang="hy"] .hero__name--last::after{ display:none; }
   grid-row:1 / 3;
 }
 
-.note{
+.note .note+{
   margin:14px 0 0;
   text-align:center;
   color:rgba(75,91,82,.72);
